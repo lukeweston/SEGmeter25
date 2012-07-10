@@ -5209,7 +5209,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <text x="22.86" y="276.86" size="1.27" layer="98">0805</text>
 <text x="33.02" y="256.54" size="1.27" layer="98">0805</text>
 <text x="33.02" y="276.86" size="1.27" layer="98">HC49US</text>
-<text x="35.56" y="241.3" size="1.27" layer="98">0805</text>
+<text x="35.56" y="236.22" size="1.27" layer="98">0805</text>
 <text x="22.86" y="233.68" size="1.27" layer="98">0805</text>
 <text x="45.72" y="292.1" size="1.27" layer="98">28-DIP, 0.3" row spacing</text>
 <text x="139.7" y="243.84" size="1.27" layer="98">0805</text>
@@ -5775,8 +5775,8 @@ In this library the device names are the same as the pin names of the symbols, t
 <attribute name="VALUE" x="28.448" y="220.98" size="1.27" layer="96"/>
 </instance>
 <instance part="C8" gate="G$1" x="30.48" y="241.3" smashed="yes" rot="R180">
-<attribute name="NAME" x="35.56" y="238.76" size="1.27" layer="95"/>
-<attribute name="VALUE" x="35.56" y="236.22" size="1.27" layer="96"/>
+<attribute name="NAME" x="35.56" y="241.3" size="1.27" layer="95"/>
+<attribute name="VALUE" x="35.56" y="238.76" size="1.27" layer="96"/>
 </instance>
 <instance part="C9" gate="G$1" x="17.78" y="233.68" smashed="yes" rot="R180">
 <attribute name="NAME" x="22.86" y="231.14" size="1.27" layer="95"/>
