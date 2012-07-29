@@ -4740,7 +4740,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="IC2" library="burr-brown" deviceset="REG1117" device="" value="LD1117S50"/>
 <part name="IC4" library="Luke" deviceset="XBEE" device=""/>
 <part name="IC3" library="burr-brown" deviceset="REG1117" device="" value="LD1117S33"/>
-<part name="R7" library="freetronics-master-v1" deviceset="RESISTOR" device="0805" value="1k"/>
+<part name="R7" library="freetronics-master-v1" deviceset="RESISTOR" device="0805" value="330R"/>
 <part name="C7" library="freetronics-master-v1" deviceset="CAP" device="0805" value="10uF"/>
 <part name="LED1" library="freetronics-master-v1" deviceset="LED" device="0805" value="RSSI"/>
 <part name="J1" library="freetronics-luke" deviceset="SJ" device="" value="Short 12V"/>
@@ -4754,7 +4754,7 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="U$45" library="freetronics-luke" deviceset="GND" device=""/>
 <part name="U$46" library="freetronics-luke" deviceset="+3.3V" device=""/>
 <part name="LED2" library="freetronics-master-v1" deviceset="LED" device="0805" value="Assoc"/>
-<part name="R8" library="freetronics-master-v1" deviceset="RESISTOR" device="0805" value="1k"/>
+<part name="R8" library="freetronics-master-v1" deviceset="RESISTOR" device="0805" value="330R"/>
 <part name="R6" library="freetronics-master-v1" deviceset="RESISTOR" device="0805" value="10k"/>
 <part name="R4" library="freetronics-master-v1" deviceset="RESISTOR" device="0805" value="4k7"/>
 <part name="U$47" library="freetronics-luke" deviceset="+3.3V" device=""/>
